@@ -166,7 +166,7 @@ An [AppImage] which conforms to the type 2 image format:
 
 ### Metadata
 
-Setion to be expanded; additional metadata is being discussed on <https://github.com/probonopd/AppImageKit/issues/59>
+Section to be expanded; additional metadata is being discussed on <https://github.com/probonopd/AppImageKit/issues/59>
 
 #### AppStream
 
